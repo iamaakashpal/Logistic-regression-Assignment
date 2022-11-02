@@ -7,3 +7,5 @@ Application Url :- https://affairs-dataset.herokuapp.com/
 1. conda create -p venv python==3.7 -y 
 2. conda activate venv/
 3. pip install ipykernel
+4. pip install statsmodels
+5. pip install -r requirements.txt

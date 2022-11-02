@@ -1,4 +1,10 @@
 pandas
 numpy
 statsmodels
-ipy
+Flask
+gunicorn
+Jinja2
+Werkzeug
+scipy
+scikit-learn
+matplotlib
