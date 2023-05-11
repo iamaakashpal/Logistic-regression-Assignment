@@ -1,4 +1,4 @@
-# Logistic-regression-Assignment
+# Boston House Price
 
 Application Url :- https://affairs-dataset.herokuapp.com/
 
